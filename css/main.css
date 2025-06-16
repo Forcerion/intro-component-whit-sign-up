@@ -1,0 +1,79 @@
+body {
+  background-image: url("/assets/background.png");
+}
+
+main {
+  width: 328px;
+  color: white;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  font-family: "Barlow", sans-serif;
+}
+
+.title {
+  height: 80px;
+  font-size: 28px;
+  margin-top: 88px;
+  margin-bottom: 16px;
+}
+
+.infos-text-under-title {
+  height: 128px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.trial-container {
+  background-color: #5e54a4;
+  border-radius: 8px;
+  padding: 16px 68px;
+}
+
+.span-information-trial {
+    font-weight: 700;
+}
+
+.trial-form {
+    background-color: white;
+    border-radius: 8px;
+    margin-top: 24px;
+    padding-top: 24px;
+}
+
+.form input {
+    width: 280px;
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid #DEDEDE;
+    padding-left: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    font-size: 16px;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-bottom: 16px;
+}
+
+.bouton-in-form {
+    width: 280px;
+    height: 40px;
+    background-color: #38CC8B;
+    border-radius: 8px;
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+}
+
+.service-infos {
+    color: #BAB7D4;
+    width: 200px;
+    font-size: 12px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.service-span {
+    color: tomato;
+}
